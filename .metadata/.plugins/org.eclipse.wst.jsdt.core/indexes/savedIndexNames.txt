@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/apple/Desktop/java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3070968515.index
+3486291574.index
+28087202.index
+2434467913.index
+395787159.index
+3044471600.index

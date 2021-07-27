@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+    <fullyQualifiedTypeName name="com.example.demo.DB.DB"/>
+    <fullyQualifiedTypeName name="com.example.demo.models.Hotel"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.example.demo.models.HotelsList"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="java.util.UUID"/>
+    <fullyQualifiedTypeName name="com.example.demo.DB.PostDB"/>
+    <fullyQualifiedTypeName name="com.example.demo.models.ReservationDetails"/>
+    <fullyQualifiedTypeName name="com.example.demo.models.Guest"/>
+    <fullyQualifiedTypeName name="com.example.demo.models.ReservationConfirmation"/>
+    <fullyQualifiedTypeName name="com.example.demo.DB.OtherDB"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="com.example.demo.models.User"/>
+    <fullyQualifiedTypeName name="com.example.demo.models.SignupError"/>
+</qualifiedTypeNameHistroy>

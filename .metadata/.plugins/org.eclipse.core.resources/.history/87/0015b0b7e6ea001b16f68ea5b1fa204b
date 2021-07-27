@@ -1,0 +1,9 @@
+package com.example.demo.models;
+
+public class SignupError {
+
+	private String success;
+	private String error;
+	private String message;
+	
+}
